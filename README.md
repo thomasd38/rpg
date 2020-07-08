@@ -1,2 +1,3 @@
-# rpg
-My rpg game
+# RPG Game
+By Thomas DARRIGOL
+
