@@ -1,2 +1,2 @@
 TODO - game base
-TODO - choose game type : a-rpg, full rpg or both ?
+TODO - choose game type : a-rpg, full rpg or both ? 
