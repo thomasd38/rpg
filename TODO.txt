@@ -1,2 +1,3 @@
-TODO - game base
-TODO - choose game type : a-rpg, full rpg or both ? 
+DONE - choose game type : DnD Solo Adventures (simple game with no rules, only map + event + items + stats)
+TODO - Map Editor
+TODO - Tileset system
