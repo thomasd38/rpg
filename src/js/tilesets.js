@@ -10,9 +10,9 @@
 var tilesets = [];
 tilesets.push({
   name: "forest",
-  nbTiles: 20,
-  link: "../img/tilesets/forest/",
+  nbTiles: 39,
+  link: "./img/tilesets/forest/",
   extension: "png",
-  minLink: "../img/tilesets/forest/min/",
+  minLink: "./img/tilesets/forest/min/",
   minExtension: "jpg"
 })
